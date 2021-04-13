@@ -1,6 +1,16 @@
 Alejandro Jimenez
 # Fullstack Developer
 
+## Skills
+
+HTML, CSS, React, SQL, Git, APIs, Node, Python, Django, scrum, Responsive Design
+
+## 🔭 I’m currently working on ...
+
+Fullstack development, Database Design, Documentation, Design Principles, scrum, Design and build an API, User Interviews, Teaching and training... From planning, design and research to Hiring Tech Talent and everything in between.
+
+As a brick-and-mortar business there are a lot of areas that need to be built or improved.
+
 <!--
 **alebrij3/alebrij3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
