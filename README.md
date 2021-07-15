@@ -1,5 +1,12 @@
 <p style="text-align: center; margin-bottom: 0;">Alejandro Jimenez</p>
-<h1 style="text-align: center; margin-top: 0; color: red;">Fullstack Developer</h1>
+
+Fullstack Developer: I lean towards Frontend with HTML, CSS, React and Backend with Python / Django. Relational Databases: MySQL and PostgreSQL.
+
+## Interests
+
+- Education
+- Reading
+- Learning
 
 ## Skills
 <p>
@@ -20,6 +27,10 @@
 Fullstack development, Database Design, Documentation, Design Principles, scrum, Design and build an API, User Interviews, Teaching and training... From planning, design and research to Hiring Tech Talent and everything in between.
 
 As a brick-and-mortar business there are a lot of areas that need to be built or improved.
+
+## You can find me on:
+
+- <a href="https://linkedin.com/in/alejandrojf">LinkedIn</a>
 
 <!--
 **alebrij3/alebrij3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
