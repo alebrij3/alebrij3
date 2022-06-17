@@ -31,7 +31,6 @@ As a brick-and-mortar business there are a lot of areas that need to be built or
 ## You can find me on:
 
 - <a href="https://linkedin.com/in/alejandrojf">LinkedIn</a>
-- My reading <a href="https://theceoreads.com">blog</a>
 
 <!--
 **alebrij3/alebrij3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
